@@ -9,7 +9,7 @@
 <body>
 <div>
 <h2>Hi Ramakrishna,</h2>
-<h5>Congratulations...Your First AWS Application is successfully completed</h5>
+<h5>Congratulations...Your First AWS Application using docker is successfully completed</h5>
 </div>
 </body>
 </html>
