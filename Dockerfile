@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Carlos Moro <cmoro@deusto.es>
+MAINTAINER Ramakrishna M <mramakrishna@gmail.com>
 
 ENV TOMCAT_VERSION 8.0.39
 
