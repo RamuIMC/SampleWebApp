@@ -37,4 +37,6 @@ RUN set -x \
 ADD ./target/*.war $CATALINA_HOME/webapps/
 
 EXPOSE 8080
+EXPOSE 8081
+EXPOSE 81
 CMD ["catalina.sh", "run"]
